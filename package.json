@@ -45,7 +45,13 @@
     "requires": {
       "db": {
         "kind": "sqlite",
-        "model": "*"
+        "credentials": {
+          "database": "sqlite.db"
+        }
+      },
+      "northwind": {
+        "kind": "odata",
+        "model": "srv\\external\\northwind"
       }
     }
   }

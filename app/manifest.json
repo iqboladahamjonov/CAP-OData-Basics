@@ -1,7 +1,7 @@
 {
   "_version": "1.21.0",
   "sap.app": {
-    "ach" : "CA-UI5-COR",
+    "ach": "CA-UI5-COR",
     "id": "handsonsapdev",
     "type": "application",
     "applicationVersion": {
